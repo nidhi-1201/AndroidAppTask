@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/signIn"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="Sign In"
+        android:textStyle="bold"
+        android:layout_marginTop="35dp"
+        android:gravity="center"
+        android:textColor="#421111"
+        android:layout_centerHorizontal="true"
+        android:textSize="35dp"
+        android:fontFamily="casual"
+         />
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_below="@id/signIn"
+        android:src="@drawable/blood_donation"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        />
+    <TextView
+        android:id="@+id/Blood"
+        android:layout_below="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_centerHorizontal="true"
+        android:text="Blood Donation Centre"
+        android:gravity="center"
+        android:layout_marginTop="25dp"
+        android:fontFamily="casual"
+        android:textSize="28dp"
+        android:textColor="#421111"
+        android:textStyle="bold"
+        />
+    <EditText
+        android:background="@drawable/edit_text_background"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:hint="Email Address"
+        android:layout_marginTop="55dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/email"
+        android:layout_below="@+id/Blood"
+        android:padding="15dp"
+        android:textAlignment="center"
+        android:textColorHint="#90101010"
+        />
+    <EditText
+        android:background="@drawable/edit_text_background"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:hint="Password"
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/password"
+        android:layout_below="@+id/email"
+        android:padding="15dp"
+        android:textAlignment="center"
+        android:textColorHint="#90101010"
+        />
+    <TextView
+        android:padding="10dp"
+        android:gravity="center"
+        android:background="@drawable/button_background"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:text="Sign Up"
+        android:textColor="#B2F8F4F4"
+        android:layout_marginTop="25dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/signUp"
+        android:layout_below="@+id/password"
+        />
+
+    <TextView
+        android:id="@+id/or_text"
+        android:layout_below="@+id/signUp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:textColor="#90101010"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="Or Continue with"
+        android:textSize="18dp"
+        />
+    <LinearLayout
+        android:id="@+id/forgot"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_below="@+id/or_text"
+        >
+        <TextView
+            android:drawableTint="#ffffff"
+            android:drawableLeft="@drawable/ic_facebook"
+            android:id="@+id/fb"
+            android:padding="15dp"
+            android:background="@drawable/button_background"
+            android:layout_below="@+id/or_text"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffffff"
+            android:layout_width="125dp"
+            android:layout_height="50dp"
+            android:text="  Facebook"
+            />
+        <View
+            android:layout_width="15dp"
+            android:layout_height="50dp"/>
+        <TextView
+            android:drawableTint="#FDF8F8"
+            android:drawableLeft="@drawable/twitter15"
+            android:id="@+id/twitter"
+            android:padding="15dp"
+            android:background="@drawable/button_background"
+            android:layout_below="@+id/or_text"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffffff"
+            android:layout_width="125dp"
+            android:layout_height="50dp"
+            android:text="    Twitter"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:background="#0DFFFFFF"
+        android:id="@+id/already"
+        android:layout_below="@id/forgot"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        >
+        <TextView
+            android:layout_gravity="center"
+            android:textColor="#90101010"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Already have an account "
+            />
+        <TextView
+            android:layout_gravity="center"
+            android:textColor="#90101010"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign in."
+            android:textStyle="bold"
+
+            />
+    </LinearLayout>
+
+</RelativeLayout>
