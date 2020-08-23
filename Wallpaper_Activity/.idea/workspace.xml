@@ -6,22 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd0bb41e-6a9e-4cff-819f-621ef5e959bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FacebookLoginPage/app/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taask12/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BonusTask8Improved/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BonusTask8Improved/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/wallpaper_activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/wallpaper_activity/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/wallpaper_activity/SetWallpaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/wallpaper_activity/SetWallpaper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_set_wallpaper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_set_wallpaper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../taask12/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../taask12/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../taask12/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../taask12/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../taask12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taask12/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bd0bb41e-6a9e-4cff-819f-621ef5e959bc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1gPexzugG0TTVsbzbLu4nOkAleS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -144,9 +130,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1598021419114" />
+    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1598170504605">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598170504605" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1598169078119">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598169078119" />
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598170513292">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1598170513292" />
   </component>
 </project>
