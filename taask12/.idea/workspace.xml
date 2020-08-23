@@ -9,7 +9,22 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a28496cf-9d92-4371-a3eb-fba91ee15d8c" name="Default Changelist" comment="" />
+    <list default="true" id="a28496cf-9d92-4371-a3eb-fba91ee15d8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FacebookLoginPage/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/res/drawable/button_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BonusTask8Improved/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BonusTask8Improved/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallpaper_Activity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallpaper_Activity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallpaper_Activity/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallpaper_Activity/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/java/com/example/wallpaper_activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/java/com/example/wallpaper_activity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/java/com/example/wallpaper_activity/SetWallpaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/java/com/example/wallpaper_activity/SetWallpaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/res/layout/activity_set_wallpaper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wallpaper_Activity/app/src/main/res/layout/activity_set_wallpaper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +51,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1fdmrIgSFzHUB814HZoJtMozjbi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,9 +63,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />

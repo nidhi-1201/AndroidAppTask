@@ -12,38 +12,44 @@
         android:orientation="vertical">
 
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
             android:layout_centerInParent="true"
             android:id="@+id/wallpaper1"
             />
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
             android:layout_centerInParent="true"
             android:id="@+id/wallpaper2"
             />
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
             android:layout_centerInParent="true"
             android:id="@+id/wallpaper3"
             />
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
             android:layout_centerInParent="true"
             android:id="@+id/wallpaper4"
             />
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
             android:layout_centerInParent="true"
             android:id="@+id/wallpaper5"
             />
         <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
             android:layout_centerInParent="true"
             android:id="@+id/wallpaper6"
             />

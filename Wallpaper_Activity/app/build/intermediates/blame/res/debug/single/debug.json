@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\pnidh\\AndroidStudioProjects\\Wallpaper_Activity\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set_wallpaper.xml.flat",
+        "source": "C:\\Users\\pnidh\\AndroidStudioProjects\\Wallpaper_Activity\\app\\src\\main\\res\\layout\\activity_set_wallpaper.xml"
+    },
+    {
         "merged": "C:\\Users\\pnidh\\AndroidStudioProjects\\Wallpaper_Activity\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\pnidh\\AndroidStudioProjects\\Wallpaper_Activity\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
@@ -46,6 +50,10 @@
     {
         "merged": "C:\\Users\\pnidh\\AndroidStudioProjects\\Wallpaper_Activity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\pnidh\\AndroidStudioProjects\\Wallpaper_Activity\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pnidh\\AndroidStudioProjects\\Wallpaper_Activity\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\pnidh\\AndroidStudioProjects\\Wallpaper_Activity\\app\\src\\main\\res\\drawable\\button_background.xml"
     },
     {
         "merged": "C:\\Users\\pnidh\\AndroidStudioProjects\\Wallpaper_Activity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
